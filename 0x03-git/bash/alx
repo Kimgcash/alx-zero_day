@@ -1,2 +1,5 @@
 #!/bin/bash
 ALX
+git add .
+git commit "Hot fix"
+git push
