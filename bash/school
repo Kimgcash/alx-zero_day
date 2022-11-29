@@ -1,3 +1,6 @@
 #!/bin/bash
 School
 The school is open!
+git add .
+git commit -m "Hot fix"
+git push
